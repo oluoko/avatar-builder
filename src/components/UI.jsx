@@ -50,7 +50,7 @@ const DownloadButton = () => {
 
 export const UI = () => {
   return (
-    <main className="pointer-events-none fixed z-10 inset-0 p-10">
+    <main className="pointer-events-none fixed z-10 inset-0 px-2 md:px-12 py-3 md:py-5">
       <div className="mx-auto h-full max-w-scree-xl w-full flex flex-col justify-between">
         <div className="flex justify-between items-center">
           <a href="/" className="pointer-events-auto">
